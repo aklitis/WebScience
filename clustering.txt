@@ -1,0 +1,31 @@
+Top terms per cluster:
+Cluster 0
+Number of tweets in this cluster: 940
+Cluster 1
+Number of tweets in this cluster: 237
+Cluster 2
+Number of tweets in this cluster: 98
+Cluster 3
+Number of tweets in this cluster: 233
+Cluster 4
+Number of tweets in this cluster: 117
+Cluster 5
+Number of tweets in this cluster: 125
+Cluster 6
+Number of tweets in this cluster: 62
+Cluster 7
+Number of tweets in this cluster: 123
+Cluster 8
+Number of tweets in this cluster: 109
+Cluster 9
+Number of tweets in this cluster: 124
+Cluster 10
+Number of tweets in this cluster: 117
+Cluster 11
+Number of tweets in this cluster: 292
+Cluster 12
+Number of tweets in this cluster: 2892
+Cluster 13
+Number of tweets in this cluster: 167
+Cluster 14
+Number of tweets in this cluster: 95
